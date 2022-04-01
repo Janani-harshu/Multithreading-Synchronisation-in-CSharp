@@ -6,4 +6,4 @@ Thread Synchronization in C# - Thread synchronization refers to the act of shiel
 
 C# Monitor - Monitor and lock is the way to provide thread safety in a multithreaded application in C#. Monitor class is one of the wait based synchronization primitive that provides gated access to the shared resource.
 
-Detailed description in C# Multithreading synchronisation.pdf
+Detailed description can be found in C# Multithreading synchronisation.pdf
